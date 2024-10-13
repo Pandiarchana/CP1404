@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
+CP1404/CP5632 Practical
 Cumulative total income program
 """
 
