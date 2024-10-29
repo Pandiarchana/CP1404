@@ -7,7 +7,6 @@ actual = 1 hours
 def main():
     user_data = {}
     used_emails = set()
-    print("Enter an email")
     email = input("Email: ").strip().lower()
     while email != "":
         if email in used_emails:
