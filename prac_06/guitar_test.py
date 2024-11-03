@@ -1,4 +1,3 @@
-# guitar_test.py
 
 from guitar import Guitar
 
@@ -22,3 +21,4 @@ def test_guitar_methods():
 
 
 test_guitar_methods()
+
