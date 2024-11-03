@@ -1,4 +1,4 @@
-# guitars.py
+
 
 from guitar import Guitar
 
