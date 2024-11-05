@@ -51,4 +51,3 @@ if __name__ == "__main__":
     driven_distance = my_car.drive(10)
     print(f"Drove: {driven_distance} km")
     print(f"Remaining fuel: {my_car.get_fuel()}")
-    print(f"Odometer reading: {my_car.get_odometer()} km")

@@ -14,4 +14,8 @@ while color_name != "":
     except KeyError:
         print("Invalid color name")
 
+prac_05_feedback
     color_name = input("Enter a color name: ").strip().lower()
+
+    color_name = input("Enter a color name: ").strip().lower()
+master
