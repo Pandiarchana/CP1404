@@ -16,7 +16,8 @@ class Guitar:
 
 if __name__ == "__main__":
     my_guitar = Guitar("Gibson L-5 CES", 1922, 16035.40)
-    print(my_guitar)
+    print(my_guitar)  # Output: Gibson L-5 CES (1922) : $16,035.40
     current_year = 2022
-    print(f"Age: {my_guitar.get_age(current_year)} years")
-    print(f"Is vintage? {'Yes' if my_guitar.is_vintage(current_year) else 'No'}")
+    print(f"Age: {my_guitar.get_age(current_year)} years")  # Output: Age: 100 years
+    print(f"Is vintage? {'Yes' if my_guitar.is_vintage(current_year) else 'No'}")  # Output: Is vintage? Yes
+
