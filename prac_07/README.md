@@ -1,7 +1,5 @@
 # Practical 07
 
-
-
 ## Repository 
 This repository contains my practicals for CP1404
 
@@ -15,3 +13,4 @@ This repository contains my practicals for CP1404
 
 Programming Patterns Page  (https://github.com/CP1404/Starter/wiki/Programming-Patterns#finding)
 CP1404 Practicals Instructions Repository https://github.com/Pandiarchana/CP1404
+
