@@ -1,0 +1,18 @@
+BoxLayout:
+    orientation: 'vertical'
+
+    BoxLayout:
+        orientation: 'vertical'
+        id: main
+
+        BoxLayout:
+            orientation: 'horizontal'
+            size_hint_y: None
+            height: 50
+            # This will hold dynamically generated Labels
+            id: entries_box
+
+    Label:
+        text: root.status_text
+        size_hint_y: None
+        height: 40
