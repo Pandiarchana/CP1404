@@ -33,7 +33,4 @@ class SquareNumberApp(App):
             pass
 
 
-SquareNumberApp().run()
-
-
-
+SquareNumberApp(App) ()
